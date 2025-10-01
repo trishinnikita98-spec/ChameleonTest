@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pages xmlns="http://chameleon.ibs-qa.ru/schema/web-elements">
+    <Page name="Регистрация">
+        <Button name="Продолжить"/>
+        <TextInput name="Имя"/>
+        <TextInput name="Фамилия"/>
+        <TextInput name="E-Mail"/>
+        <TextInput name="Пароль"/>
+        <CheckBox name="newsletter"/>
+        <CheckBox name="agree"/>
+        <Link name="Корзина"/>
+    </Page>
+    <Page name="Ваша учетная запись создана!"/>
+</Pages>
